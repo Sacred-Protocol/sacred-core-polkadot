@@ -2,8 +2,6 @@
 
 This package contains the SacredEscrow smart contract - a decentralized escrow system that allows users to deposit native token for specific social media identities and enables verified claims through cryptographic attestations.
 
-## SacredEscrow Contract
-
 The SacredEscrow contract enables secure, trustless escrow for social media interactions. Users can deposit funds targeted at specific platform identities, and recipients can claim these funds using verified attestations.
 
 ### Key Features
